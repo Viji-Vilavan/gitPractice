@@ -3,6 +3,12 @@ public class classA {
         System.out.println("class A ");
         System.out.println("huy pene oene");
         System.out.println("branch B changes");
+ branchD
+        System.out.println( "after i coloborate with sarath");
+      
+        System.out.println("branch D firts chnage1git ");
+
         System.out.println("new ");
+       branchB
     }
 }
