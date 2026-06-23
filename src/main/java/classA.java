@@ -3,5 +3,6 @@ public class classA {
         System.out.println("class A ");
         System.out.println("huy pene oene");
         System.out.println("branch B changes");
+        System.out.println("new ");
     }
 }
