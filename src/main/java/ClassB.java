@@ -3,5 +3,6 @@ public class ClassB {
         System.out.println( "Initial code v1");
         System.out.println("feature A added");
         System.out.println("feature b addded");
+        System.out.println("feature c added");
     }
 }
